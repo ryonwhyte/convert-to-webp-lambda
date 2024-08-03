@@ -2,6 +2,8 @@
 
 This Lambda will be invoked when a file is uploaded to a particular bucket. It will fetch the file that was added, convert it to webp, and store the output in a different bucket.
 
+Inspired from this video [Resize Images with Node.js and AWS Lambda (and S3)]([https://link-url-here.org](https://www.youtube.com/watch?v=QFgJFoS_Hl0))
+
 ## Run Locally
 
 Clone the project
